@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bodyy{
+    text-align: center;
+    box-shadow: 0 5px 5px 0 black;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.bodyy:hover{
+    box-shadow: 0 0 5px 5px green;
+}
+.bttn{
+    width: 73px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.bttn:hover{
+    background-color: green;
+    box-shadow: inset 0 0 10px greenyellow;
+}
+.text_field{
+    height: 80px;
+    width: 300px;
+    text-align: right;
+    font-weight: bold;
+    font-size: xx-large;
+}
